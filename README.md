@@ -13,10 +13,10 @@ I am passionate coder who always loves to learn and explore different aspects of
  <h3 align="left">GitHub Stats 📊
 </h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=somenath203&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=somenath203&bg_color=0D1117&show_icons=true&theme=vision-friendly-dark">
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somenath203&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somenath203&show_icons=true&theme=vision-friendly-dark">
 </p>
   
   
