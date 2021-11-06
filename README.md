@@ -23,9 +23,12 @@ I am passionate coder who always loves to learn and explore different aspects of
 
 
 <h3 align="left">Github Statistics:</h3>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=somenath203"></a>
-<a href="https://github.com/somenath203?tab=followers"><img src="https://img.shields.io/github/followers/somenath203?label=Followers&style=social" alt="GitHub Badge"></a>
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/somenath203?style=social">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=somenath203&show_icons=true&theme=vision-friendly-dark">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somenath203&theme=vision-friendly-dark">
+</p>
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
