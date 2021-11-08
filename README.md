@@ -58,9 +58,8 @@ I am passionate coder who always loves to learn and explore different aspects of
 <h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somenath203&theme=onedark" alt="somenath203" /></a> </p>
 
-
-<h3 align="left">Github Statistics:</h3>
-<a href="https://img.shields.io/github/followers/somenath203?style=social" /></a>
+### Github Statistics:
+![GitHub followers](https://img.shields.io/github/followers/somenath203?style=social)
 
 
 
