@@ -19,11 +19,10 @@ I am passionate coder who always loves to learn and explore different aspects of
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somenath203&bg_color=0D1117&show_icons=true&theme=vision-friendly-dark">
 </p>
-  
- <br />
-
 ### Wakatime Week Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?somenath203&bg_color=0D1117&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somenath203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="somenath203" /></p>
 
