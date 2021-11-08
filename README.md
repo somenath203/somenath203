@@ -40,8 +40,7 @@ I am passionate coder who always loves to learn and explore different aspects of
 
 
 
-
-
+<br />
 
 <h3 align="left">GitHub Stats 📊
 </h3><h4 align="left>Programming Languages</h4>
