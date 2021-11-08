@@ -20,8 +20,9 @@ I am passionate coder who always loves to learn and explore different aspects of
 <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 </p>
 
- 
- <h3 align="left">GitHub Stats 📊
+<h4 align="left">Backend Development:</h4>
+<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </p>
+  <h3 align="left">GitHub Stats 📊
 </h3><h4 align="left>Programming Languages</h4>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=somenath203&bg_color=0D1117&show_icons=true&theme=vision-friendly-dark">
