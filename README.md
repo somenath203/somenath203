@@ -56,7 +56,8 @@ I am passionate coder who always loves to learn and explore different aspects of
 <br />
 
 ### Wakatime Week Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?somenath203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?somenath203=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="https://github-readme-stats.vercel.app/api/wakatime?somenath203=willianrodh"><img src="https://github.com/anuraghazra/github-readme-stats" /></a>
 
  
 <a href="https://github.com/somenath203/github-readme-activity-graph"><img alt="Somenath Choudhury's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=somenath203&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
