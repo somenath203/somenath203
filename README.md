@@ -60,6 +60,7 @@ I am passionate coder who always loves to learn and explore different aspects of
 
 ### Github Statistics:
 ![GitHub followers](https://img.shields.io/github/followers/somenath203?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/somenath203?style=social)
 
 
 
