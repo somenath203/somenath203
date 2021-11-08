@@ -70,7 +70,6 @@ I am passionate coder who always loves to learn and explore different aspects of
 ![GitHub User's stars](https://img.shields.io/github/stars/somenath203?style=social)
 
 
-
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://codepen.io/somenath203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somenath203" height="30" width="40" /></a>
