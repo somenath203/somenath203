@@ -76,5 +76,6 @@ I am passionate coder who always loves to learn and explore different aspects of
 <a href="https://www.hackerrank.com/somenathchoudhu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="somenathchoudhu2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/somenathchoudhury35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somenathchoudhury35" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/somenathchoudhury35/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="somenathchoudhury35/profile" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/somenath111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="somenath111" height="30" width="40" /></a>
 </p>
 
