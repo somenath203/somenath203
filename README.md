@@ -66,8 +66,6 @@ I am a passionate coder who loves to learn and explore different aspects of vari
 ![GitHub followers](https://img.shields.io/github/followers/somenath203?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/somenath203?style=social)
 ![](https://komarev.com/ghpvc/?username=somenath203&color=blue)
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14437554/somenath-choudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14437554/somenath-choudhury" height="30" width="40" /></a>
-
 
 
 <h3 align="left">Connect With Me:</h3>
@@ -78,5 +76,6 @@ I am a passionate coder who loves to learn and explore different aspects of vari
 <a href="https://www.leetcode.com/somenathchoudhury35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somenathchoudhury35" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/somenathchoudhury35/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="somenathchoudhury35/profile" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/somenath111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="somenath111" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14437554/somenath-choudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14437554/somenath-choudhury" height="30" width="40" /></a>
 </p>
 
