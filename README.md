@@ -66,6 +66,7 @@ I am a passionate coder who loves to learn and explore different aspects of vari
 ![GitHub followers](https://img.shields.io/github/followers/somenath203?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/somenath203?style=social)
 ![](https://komarev.com/ghpvc/?username=somenath203&color=blue)
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14437554/somenath-choudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14437554/somenath-choudhury" height="30" width="40" /></a>
 
 
 
