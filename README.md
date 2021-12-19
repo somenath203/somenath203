@@ -5,6 +5,8 @@
 
 <h3 align="left">🙋‍ About Me:</h3>
 I am a passionate coder who loves to learn and explore different aspects of various programming languages. I really enjoy learning different programming languages like C++, Python, Javascript, JAVA and frameworks like Node-Js, React and I also have a great interest in learning Ml(Machine Learning) and ANN(Artificial Neural network).
+<br />
+- 📫 How to reach me **somenathchoudhury35@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -71,7 +73,6 @@ I am a passionate coder who loves to learn and explore different aspects of vari
 ![GitHub User's stars](https://img.shields.io/github/stars/somenath203?style=social)
 ![](https://komarev.com/ghpvc/?username=somenath203&color=blue)
 
-- 📫 How to reach me **somenathchoudhury35@gmail.com**
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
