@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://github.com/somenath203/somenath203/blob/main/standard.gif" height="165px"/></a>
+
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I am Somenath Choudhury</h1>
 
