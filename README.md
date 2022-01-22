@@ -2,6 +2,7 @@
 
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I am Somenath Choudhury</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EE2F&lines=Welcome+to+my+Profile)](https://git.io/typing-svg)
 
 <h3 align="left">🙋‍ About Me:</h3>
 <p>
