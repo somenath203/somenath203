@@ -8,7 +8,6 @@ I am a passionate coder who loves to learn and explore different aspects of vari
 </p>
 <br />
 <p> How To Reach Me - <b>somenathchoudhury35@gmail.com</b></p>
-<p> My Portfolio Website - <b>https://portfolio-website-starter-mu.vercel.app/</b></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
