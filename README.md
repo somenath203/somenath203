@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">Hi, I am Somenath Choudhury</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>Hi, I am Somenath Choudhury</h1>
 <h3 align="left">🙋‍ About Me:</h3>
 <p>
 I am a passionate coder who loves to learn and explore different aspects of various programming languages. I really enjoy learning different programming languages like C++, Python, Javascript, JAVA and frameworks like Node-Js, React and I also have a great interest in learning Ml(Machine Learning) and ANN(Artificial Neural network).
