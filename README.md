@@ -9,7 +9,7 @@ MERN Stack Developer and Machine Learning Enthusiast with over 2 years of experi
 * 🌍  I'm based in Phagwara, Punjab
 * 🖥️  See my portfolio at [HERE 👉](http://somenath-portfolio-website.vercel.app/)
 * ✉️  You can contact me at [somenathchoudhury35@gmail.com](mailto:somenathchoudhury35@gmail.com)
-* 🧠  I'm learning Deep Learning with Tensorflow
+* 🧠  I'm currently learning Deep Learning with Tensorflow
 
 <a href="https://www.github.com/somenath203" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/somenath203?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
@@ -34,14 +34,12 @@ src="https://img.shields.io/github/followers/somenath203?logo=github&style=for-t
 
 <a href="http://www.github.com/somenath203"><img src="https://github-readme-streak-stats.herokuapp.com/?user=somenath203&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/somenath203"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=somenath203&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/somenath203" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somenath203&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/somenath203/Predict-students-dropout-and-academic-success-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=somenath203&repo=Predict-students-dropout-and-academic-success-frontend&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/somenath203/Mern-Stack-Image-Gallery-Frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=somenath203&repo=Mern-Stack-Image-Gallery-Frontend&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/somenath203/My-Finance-Manager-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=somenath203&repo=My-Finance-Manager-Frontend&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/somenath203/Blog-Backend-API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=somenath203&repo=Blog-Backend-API&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
