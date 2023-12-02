@@ -7,7 +7,7 @@ MERN Stack Web Developer | Machine Learning Enthusiast
 MERN Stack Developer and Machine Learning Enthusiast with over 2 years of experience in creating interactive mern stack applications, training machine learning models and deploying them in production.
 
 * 🌍  I'm based in Phagwara, Punjab
-* 🖥️  See my portfolio at [HERE 👉](http://somenath-portfolio-website.vercel.app/)
+* 🖥️  See my portfolio by clicking [HERE](http://somenath-portfolio-website.vercel.app/)
 * ✉️  You can contact me at [somenathchoudhury35@gmail.com](mailto:somenathchoudhury35@gmail.com)
 * 🧠  I'm currently learning Deep Learning with Tensorflow
 
