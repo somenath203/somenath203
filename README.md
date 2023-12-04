@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/somenath-choudhury-79a36b1b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somenath-choudhury-79a36b1b6" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14437554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14437554" height="30" width="40" /></a>
-<a href="https://kaggle.com/somenath_choudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="somenath_choudhury" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/somenath111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="somenath_choudhury" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
