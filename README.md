@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning with Tensorflow**
 
-- 👨‍💻 All of my projects are available at [https://somenath-portfolio-website.vercel.app/](https://somenath-portfolio-website.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://somenath-choudhury-portfolio-version-2.vercel.app/](https://somenath-choudhury-portfolio-version-2.vercel.app/)
 
 - 📫 How to reach me **somenathchoudhury38@gmail.com**
 
