@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Somenath Choudhury</h1>
-<h4 align="center">MERN Stack Developer and Machine Learning Enthusiast with over 2 years of hands-on experience in developing interactive full stack web applications, A.I. models and deploying them in production.</h3>
+<h1 align="center">Hi 👋, I'm Somenath Choudhury</h1>
+<h3 align="center">MERN Stack Developer and Machine Learning Enthusiast with over 2 years of hands-on experience in developing interactive full stack web applications, A.I. models and deploying them in production.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somenath203&label=Profile%20views&color=0e75b6&style=flat" alt="somenath203" /> </p>
 
