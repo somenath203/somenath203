@@ -30,7 +30,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** [somenathchoudhury38@gmail.com](mailto:somenathchoudhury38@gmail.com)
+- 📧 **Email:** somenathchoudhury38@gmail.com
 - 💼 **LinkedIn:** [Somenath Choudhury](https://www.linkedin.com/in/somenath-choudhury/)
 - 🌐 **Portfolio:** [My Portfolio](https://somenath-choudhury-portfolio-version-2.vercel.app/)
 - 🐙 **GitHub:** [somenath203](https://github.com/somenath203)
@@ -38,18 +38,3 @@
 ---
 
 ✨ _Thank you for stopping by — feel free to explore my work and reach out!_ 🙌
-
-<!--
-**somenath203/somenath203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
