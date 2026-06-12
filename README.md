@@ -35,7 +35,7 @@
 
 ## 📫 Connect With Me
 
-* 📧 **Email:** [somenathchoudhury38@gmail.com](mailto:somenathchoudhury38@gmail.com)
+* 📧 **Email:** somenathchoudhury38@gmail.com
 * 💼 **LinkedIn:** https://www.linkedin.com/in/somenath-choudhury/
 * 🌐 **Portfolio:** https://somenath-choudhury-portfolio-version-2.vercel.app/
 * 🐙 **GitHub:** https://github.com/somenath203
