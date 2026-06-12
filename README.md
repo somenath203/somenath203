@@ -6,10 +6,10 @@
 
 ## 🚀 About Me
 
-* 💻 Passionate about building intelligent and scalable web applications
-* 🌐 Enjoy working across the full stack — from crafting responsive UIs to developing robust backend systems
-* 🤖 Deeply interested in **AI/ML** and integrating large language models into real-world applications
-* 🧠 Continuously learning, improving, and growing as a developer every day 💪
+* 💻 Build intelligent, scalable web applications with a focus on performance and usability
+* 🌐 Work across the full stack — developing responsive frontends and robust backend systems
+* 🤖 Apply AI/ML concepts and integrate large language models into real-world solutions
+* 🧠 Continuously improving through hands-on projects and learning new technologies
 
 ---
 
