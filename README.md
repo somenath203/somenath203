@@ -1,15 +1,16 @@
 # Hi 👋, I'm Somenath Choudhury
 
-### 🎓 B.Tech CSE Graduate  |  💻 Aspiring Software Developer  |  📍 India
+### 🎓 B.Tech CSE Graduate  |  💻 Full Stack Developer | AI Enthusiast  |  📍 India
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Build intelligent, scalable web applications with a focus on performance and usability
-* 🌐 Work across the full stack — developing responsive frontends and robust backend systems
-* 🤖 Apply AI/ML concepts and integrate large language models into real-world solutions
-* 🧠 Continuously improving through hands-on projects and learning new technologies
+* 💻 Build intelligent, scalable web and mobile applications with a focus on performance and usability
+* 🌐 Work across the full stack — crafting responsive UIs, developing robust APIs, and deploying production-ready systems
+* 📱 Develop cross-platform mobile apps using React Native (Expo)
+* 🤖 Apply AI/ML concepts and integrate large language models into real-world applications
+* 🧠 Continuously improving through hands-on projects and learning modern technologies
 
 ---
 
@@ -18,7 +19,8 @@
 | Category                       | Technologies                                               |
 | ------------------------------ | ---------------------------------------------------------- |
 | 👨‍💻 **Languages**            | Java · Python · JavaScript                                 |
-| 🌐 **Frontend**                | React.js · Tailwind CSS                                    |
+| 🌐 **Frontend (Web)**          | React.js · Tailwind CSS                                    |
+| 📱 **Mobile**                  | React Native (Expo)                                        |
 | ⚙️ **Backend**                 | Express.js · FastAPI                                       |
 | 🔁 **Full Stack**              | Next.js · MERN Stack                                       |
 | 🗄️ **Databases**              | Neon (PostgreSQL) · MongoDB                                |
