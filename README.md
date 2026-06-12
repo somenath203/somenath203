@@ -9,7 +9,6 @@
 - 💻 Passionate about building intelligent web applications and exploring new technologies
 - 🌐 Enjoy working across the full stack — from building responsive UIs to designing robust backends
 - 🤖 Deeply interested in **AI/ML** and integrating large language models into real-world apps
-- 🌱 Currently sharpening my skills in **Full Stack Development** and **Generative AI**
 - 🧠 On a personal journey of growth and resilience — taking it one day at a time 💪
 
 ---
