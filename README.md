@@ -24,7 +24,7 @@
 | 🗄️ **Databases** | PostgreSQL · MongoDB |
 | 📊 **Data & ML** | NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · TensorFlow |
 | 🧠 **AI & LLMs** | LangChain · Gemini API · GROQ API |
-| 🧰 **Tools & DevOps** | Git · Docker |
+| 🧰 **Tools** | Git · Docker |
 
 ---
 
