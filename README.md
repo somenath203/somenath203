@@ -7,10 +7,10 @@
 ## 🚀 About Me
 
 * 💻 Build intelligent, scalable web and mobile applications with a focus on performance and usability
-* 🌐 Work across the full stack — crafting responsive UIs, developing robust APIs, and deploying production-ready systems
-* 📱 Develop cross-platform mobile apps using React Native (Expo)
+* 🌐 Work across the full stack — building responsive UIs, developing robust APIs, and deploying production-ready systems
+* 📱 Build cross-platform mobile applications using React Native (Expo)
 * 🤖 Apply AI/ML concepts and integrate large language models into real-world applications
-* 🧠 Continuously improving through hands-on projects and learning modern technologies
+* 🧠 Improve continuously through hands-on projects and learning modern technologies
 
 ---
 
@@ -20,8 +20,8 @@
 | ------------------------------ | ---------------------------------------------------------- |
 | 👨‍💻 **Languages**            | Java · Python · JavaScript                                 |
 | 🌐 **Frontend (Web)**          | React.js · Tailwind CSS                                    |
-| 📱 **Mobile**                  | React Native (Expo)                                        |
 | ⚙️ **Backend**                 | Express.js · FastAPI                                       |
+| 📱 **Mobile**                  | React Native (Expo)                                        |
 | 🔁 **Full Stack**              | Next.js · MERN Stack                                       |
 | 🗄️ **Databases**              | Neon (PostgreSQL) · MongoDB                                |
 | ☁️ **BaaS / Backend Services** | Supabase · Firebase · Convex                               |
@@ -42,4 +42,4 @@
 
 ---
 
-✨ *Thank you for stopping by — feel free to explore my work and connect!* 🙌
+🚀 *Thank you for stopping by — feel free to explore my work and connect!* 🙌
