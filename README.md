@@ -1,39 +1,41 @@
 # Hi 👋, I'm Somenath Choudhury
 
-### 🎓 B.Tech CSE Graduate &nbsp;|&nbsp; 💻 Aspiring Software Developer &nbsp;|&nbsp; 📍 India
+### 🎓 B.Tech CSE Graduate  |  💻 Aspiring Software Developer  |  📍 India
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate about building intelligent web applications and exploring new technologies
-- 🌐 Enjoy working across the full stack — from building responsive UIs to designing robust backends
-- 🤖 Deeply interested in **AI/ML** and integrating large language models into real-world apps
-- 🧠 On a personal journey of growth and resilience — taking it one day at a time 💪
+* 💻 Passionate about building intelligent and scalable web applications
+* 🌐 Enjoy working across the full stack — from crafting responsive UIs to developing robust backend systems
+* 🤖 Deeply interested in **AI/ML** and integrating large language models into real-world applications
+* 🧠 Continuously learning, improving, and growing as a developer every day 💪
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|---|---|
-| 👨‍💻 **Languages** | Java · Python · JavaScript |
-| 🌐 **Frontend** | React.js · Next.js · Tailwind CSS |
-| ⚙️ **Backend** | Express.js · FastAPI |
-| 🗄️ **Databases** | PostgreSQL · MongoDB |
-| 📊 **Data & ML** | NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · TensorFlow |
-| 🧠 **Generative AI** | Gemini API · OpenAI API · GroqCloud API · LangChain · Agno |
-| 🧰 **Tools** | Git · Docker |
+| Category                       | Technologies                                                      |
+| ------------------------------ | ----------------------------------------------------------------- |
+| 👨‍💻 **Languages**            | Java · Python · JavaScript                                        |
+| 🌐 **Frontend**                | React.js · Tailwind CSS                                           |
+| ⚙️ **Backend**                 | Express.js · FastAPI                                              |
+| 🔁 **Full Stack**              | Next.js · MERN Stack                                              |
+| 🗄️ **Databases**              | Neon · MongoDB                                       |
+| ☁️ **BaaS / Backend Services** | Supabase · Firebase · Convex                                      |
+| 📊 **Data & ML**               | NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · TensorFlow |
+| 🧠 **Generative AI**           | Gemini API · OpenAI API · GroqCloud API · LangChain · Agno        |
+| 🧰 **Tools**                   | Git · Docker                                                      |
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** somenathchoudhury38@gmail.com
-- 💼 **LinkedIn:** [Somenath Choudhury](https://www.linkedin.com/in/somenath-choudhury/)
-- 🌐 **Portfolio:** [My Portfolio](https://somenath-choudhury-portfolio-version-2.vercel.app/)
-- 🐙 **GitHub:** [somenath203](https://github.com/somenath203)
+* 📧 **Email:** [somenathchoudhury38@gmail.com](mailto:somenathchoudhury38@gmail.com)
+* 💼 **LinkedIn:** [Somenath Choudhury](https://www.linkedin.com/in/somenath-choudhury/)
+* 🌐 **Portfolio:** [My Portfolio](https://somenath-choudhury-portfolio-version-2.vercel.app/)
+* 🐙 **GitHub:** [somenath203](https://github.com/somenath203)
 
 ---
 
-✨ _Thank you for stopping by — feel free to explore my work and reach out!_ 🙌
+✨ *Thank you for stopping by — feel free to explore my work and connect!* 🙌
