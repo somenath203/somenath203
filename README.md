@@ -22,7 +22,7 @@
 | ⚙️ **Backend** | Express.js · FastAPI |
 | 🗄️ **Databases** | PostgreSQL · MongoDB |
 | 📊 **Data & ML** | NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · TensorFlow |
-| 🧠 **AI & LLMs** | LangChain · Gemini API · GROQ API |
+| 🧠 **Generative AI** | Gemini API · OpenAI API · GroqCloud API · LangChain · Agno |
 | 🧰 **Tools** | Git · Docker |
 
 ---
