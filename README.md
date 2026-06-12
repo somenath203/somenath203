@@ -1,6 +1,6 @@
 # Hi 👋, I'm Somenath Choudhury
 
-### 🎓 B.Tech CSE Graduate  |  💻 Full Stack Developer | AI Enthusiast  |  📍 India
+### 🎓 B.Tech CSE Graduate  |  💻 Full Stack Developer | 🧬 AI Enthusiast  |  📍 India
 
 ---
 
