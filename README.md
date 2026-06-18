@@ -28,7 +28,7 @@
 | 📊 **Data Analysis**           | NumPy · Pandas · Matplotlib · Seaborn                      |
 | 🤖 **Machine Learning**        | Scikit-learn                                               |
 | 🧠 **Deep Learning**           | TensorFlow                                                 |
-| ✨ **Generative AI**            | Gemini API · OpenAI API · GroqCloud API · LangChain · Agno |
+| ✨ **Generative AI**            | Google Gemini API · OpenAI API · GroqCloud API · LangChain · Agno |
 | 🧰 **Tools**                   | Git · Docker                                               |
 
 ---
