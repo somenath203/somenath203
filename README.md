@@ -9,7 +9,7 @@
 * 💻 Build intelligent, scalable web and mobile applications with a focus on performance and usability
 * 🌐 Work across the full stack — building responsive UIs, developing robust APIs, and deploying production-ready systems
 * 📱 Build cross-platform mobile applications using React Native (Expo)
-* 🤖 Apply AI/ML concepts and integrate large language models into real-world applications
+* 🤖 Apply AI concepts and integrate large language models into real-world applications
 * 🧠 Improve continuously through hands-on projects and learning modern technologies
 
 ---
